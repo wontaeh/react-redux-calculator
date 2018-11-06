@@ -1,0 +1,11 @@
+
+export const CLEAR = "CLEAR";
+export const TOGGLE_NEGATIVE = "TOGGLE_NEGATIVE";
+export const PERCENTAGE = "PERCENTAGE";
+export const DELETE_CURRENT_VALUE = "DELETE_CURRENT_VALUE";
+export const MEMORY_CLEAR = "MEMORY_CLEAR";
+export const MEMORY_STORAGE = "MEMORY_STORAGE";
+export const MEMORY_RETRIEVAL = "MEMORY_RETRIEVAL";
+export const SET_OPERATOR = "SET_OPERATOR";
+export const ENTER_NUMBER = "ENTER_NUMBER";
+export const EVALUATE = "EVALUATE";
